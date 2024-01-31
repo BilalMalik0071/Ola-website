@@ -1,0 +1,72 @@
+.header{
+    width: 100%;
+    background-color:black;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: tahoma;
+    position: fixed;
+    top: 0px;
+    z-index: 1px;
+}
+.img{
+    width: 10%;
+}
+.section2{
+    color: aliceblue;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.section3{
+    color: aliceblue;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-div1{
+    margin-top: 70px;
+    height: 700px;
+    background-image: url(./img/homepage_republic_banner_mweb_image_240124_v2.webp);
+    background-size: cover;
+}
+.img{
+    margin-top: 50px;
+    width: 200px;
+}
+.para1{
+    font-family: arial;
+    font-size: 30px;
+    width: 60%;
+    line-height: 40px;
+}
+.main-div2{
+   display: flex;
+   flex-direction: column; 
+   justify-content: center;
+   padding: 50px;
+   margin-left: 50px;
+}
+.images-row{
+    display: flex;
+    flex-direction: row; 
+    padding: 80px; 
+}
+.img-div1{
+    width: 100%;
+    padding: 20px;
+    height: 500px;
+}
+.imagin{
+    width: 100%;
+    
+}
+.imagin1{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.p1{
+    font-family: helvetica;
+    font-size: 20px;
+}
